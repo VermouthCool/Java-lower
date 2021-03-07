@@ -1,0 +1,12 @@
+{
+    "include": ["./test.ts"],
+    "compilerOptions": {
+        "strict": true,
+        "removeComments": true,
+        "checkJs": true,
+        "noImplicitReturns": true,
+        "noEmitOnError": true,
+        "noImplicitAny": true,
+        
+    }
+}
